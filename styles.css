@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+.card{
+	margin:50px 80px 50px 80px;
+	padding:10px 10px 10px 10px;
+	background-color: mintcream;
+	width: 50%;
+	height: 100%;
+	text-align:center;
+	z-index:1000;
+	box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img{
+	padding: 20px 8px 0 8px ;
+	width:80%;
+	height:200px;
+}
+
+
+.btn{
+	padding:10px;
+	font-size: 20px;
+	color:white;
+	background-color:#FF033E;
+	border-radius:12px;
+}
+
+
+p{
+	font-size: large;
+	font-weight:500;
+}
+
+h1{
+	font-size: xx-large;
+	font-weight:2000;
+}
